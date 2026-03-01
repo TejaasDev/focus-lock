@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Focus Lock
+Comment=Stay focused by blocking distracting applications
+Exec=/usr/bin/focus-lock
+Icon=focus-lock
+Terminal=false
+Type=Application
+Categories=Utility;Productivity;
+Keywords=focus;productivity;blocker;distraction;
+StartupNotify=true
+StartupWMClass=focus-lock
